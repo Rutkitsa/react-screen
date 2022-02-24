@@ -1,0 +1,166 @@
+header {
+    /*width: 1440px;
+    
+    margin: 0 0 32px;
+    padding: 20px 1134px 20px 64px;*/
+    height: 100px;
+    padding-left: 64px;
+    background-color:#0e1649;
+    
+  }
+
+  .React-screen {
+   /* width: 1440px;
+    height: 2257px;
+    flex-grow: 0;*/
+    padding-left: 64px;
+    background-color: #fcfaf7;
+    text-align: left;
+  }
+
+  #React-article h1{
+      font-family: Times New Roman;
+      font-size: 72px;
+      font-weight: bold;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.5;
+      letter-spacing: 1.44px;
+      color: #0e1649;
+      padding-top: 32px;
+    }
+
+  #React-article h2{
+    font-family: Arial;
+    font-size: 24px;
+    font-weight: bold;
+    letter-spacing: 0.48px;
+    color: #1c1c1c;
+    padding-top: 40px;
+  }
+
+  .subtext{
+    font-family: Courier New;
+    font-size: 26px;
+    /*font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;*/
+    letter-spacing: -1.56px;
+    text-align: left;
+    color: #1c1c1c;
+    padding-top: 16px;
+    padding-bottom: 24px;
+    
+  }
+
+  .btn-react{
+    width: 205px;
+    height: 55px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 12px;
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin-right: 16px;
+    display: inline;
+    
+  }    
+
+  #btn-get-started{
+    background-color: #ff9f00;
+    border-color: #ff9f00;
+    color: #fff;
+  }
+  
+  #btn-get-started:hover{
+    background-color: #f08e0e;
+  }
+
+  #btn-get-started:focus{
+    background-color: #f08e0e;
+  }
+
+  #btn-get-started:active{
+    background-color: #fb3;
+  }
+
+  #btn-tutorial{
+    color: #ff9f00;
+    border-color: #ff9f00;
+    
+  }
+
+  #btn-tutorial:hover{
+    color: #f08e0e;
+    border-color: #f08e0e;
+  }
+
+  #btn-tutorial:focus{
+    color: #d87a00;
+    border-color: #d87a00;
+    background-color: #faefdd;
+  }
+
+  #btn-tutorial:active{
+    background-color: #fb3;
+  }
+
+  .subtext-bold{
+      font-family: Courier New;
+      font-size: 24px;
+      font-weight: bold;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: normal;
+      letter-spacing:-0.48px;
+      text-align: left;
+      color: rgba(14, 22, 73, 0.8);
+      margin-top: 72px;
+      
+    
+  }
+
+  
+ 
+  .normal-text{
+    width: 648px;
+    padding-top: 16px;
+    padding-bottom: 40px;
+    font-family: Arial;
+    font-size: 18px;
+    /*font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;*/
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #1c1c1c;
+  }
+
+  
+
+  .link{
+    height:29px;
+    background-color: #cfd0d6;
+    color: #0e1649;
+  }
+
+  .link2{
+    font-family: Arial;
+    font-size: 18px;
+    color: #ff7748;
+  }
+  
+  .image{
+    padding-bottom: 40px;
+  }
+#React-article hr{
+  color:red;
+  /*color:#e1e1e1;*/
+}
